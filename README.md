@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EpsilonSquare616
-- 👀 I’m an electrical engineer. I am interested in research in the field of data science for Renewable Energy and Data Center applications
+- 👀 I have a PhD in Control Systems Therory, Electrical Engineering.
+- My work involves Applied Statistics
 - 🌱 I’m currently learning LLMs
-- 💞️ I’m looking to collaborate on Research
+- 💞️ I’m looking to collaborate on Research in developing distributed system applications, AI systems for Renewable Energy and Data Center applications
 
 <!---
 EpsilonSquare616/EpsilonSquare616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
